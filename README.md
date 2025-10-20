@@ -73,7 +73,8 @@ Relevant Coursework:
 ---
 
 ## Contact
-- **Email:** alfonso.marlan1184@gmail.com  
+- **Email:** alfonso.marlan1184@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlan-alfonso-355b63308/)  
 
 ---
