@@ -12,8 +12,7 @@ My interests lie in software development, data analytics, and emerging technolog
 
 ## Education
 **New Era University**  
-*Bachelor of Science in Computer Science*  
-Expected Graduation: 2027
+*Bachelor of Science in Computer Science* 
 
 Relevant Coursework:
 - Data Structures and Algorithms  
